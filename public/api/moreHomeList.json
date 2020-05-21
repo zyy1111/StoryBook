@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "data": [{
+    "id": 4,
+    "title": "Coronavirus: Better-off children spend more time studying",
+    "content": "Children from wealthier families are spending more time each day studying in the coronavirus lockdown compared with the poorest, according to new research.",
+    "imgURL": "https://ichef.bbci.co.uk/news/270/cpsprodpb/3465/production/_112331431_gettyimages-1215474889-1.jpg"
+  }, {
+    "id": 5,
+    "title": "One dead after Canadian Snowbirds jet crashes into home'",
+    "content": "At least one person has died after an aerobatic Canadian air force jet crashed into a residential neighbourhood while doing a flyover.",
+    "imgURL": "https://ichef.bbci.co.uk/news/624/cpsprodpb/FF21/production/_112331356_gettyimages-661674090.jpg"
+  }, {
+    "id": 6,
+    "title": "Coronavirus: How long does it take to recover?",
+    "content": "More than one million people around the world are known to have recovered from coronavirus, according to Johns Hopkins University. But the road back to full health is not the same for everyone.",
+    "imgURL": "https://ichef.bbci.co.uk/news/660/cpsprodpb/15D88/production/_111808498_902e908e-cf62-49f8-abdd-13129fce17f5.jpg"
+  }]
+}

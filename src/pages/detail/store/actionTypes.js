@@ -1,0 +1,1 @@
+export const LOAD_DETAIL = 'detail/LOAD_DETAIL';
